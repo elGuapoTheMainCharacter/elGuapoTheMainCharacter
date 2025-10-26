@@ -76,12 +76,12 @@ Here are some of my personal and learning projects. Click the titles to explore 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight" alt="Zipo's GitHub Stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight" alt="Top Languages" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=elGuapoTheMainCharacter&show_icons=true&theme=tokyonight" alt="Zipo's GitHub Stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elGuapoTheMainCharacter&layout=compact&theme=tokyonight" alt="Top Languages" height="160" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight" alt="GitHub Streak" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elGuapoTheMainCharacter&theme=tokyonight" alt="GitHub Streak" height="160" />
 </p>
 
 ---
@@ -90,7 +90,7 @@ Here are some of my personal and learning projects. Click the titles to explore 
 
 Let’s connect and collaborate! I’m open to internship, freelance, or entry-level opportunities.
 
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOURUSERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/elGuapoTheMainCharacter)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOURUSERNAME)
 [![Email](https://img.shields.io/badge/Email-isaacnkefe@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isaacnkefe@gmail.com)
 
