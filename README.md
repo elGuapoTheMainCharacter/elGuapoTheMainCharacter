@@ -33,11 +33,11 @@ Here are some of my personal and learning projects. Click the titles to explore 
 |----------|--------------|--------|
 | 💰 [**Finance Tracker**](https://github.com/elGuapoTheMainCharacter/finance-tracker) | A personal finance web app to record income, expenses, and visualize spending using HTML, CSS & JavaScript. | 🛠️ *In Progress* |
 | 🌤️ [**Weather App**](https://github.com/elGuapoTheMainCharacter/weather-app) | Displays live weather updates using an API with a clean and responsive interface. | ✅ *Completed* |
-| 🧮 [**Calculator**](https://github.com/YOURUSERNAME/calculator) | A simple, elegant calculator built with HTML, CSS, and JavaScript for basic arithmetic operations. | ✅ *Completed* |
-| ⏰ [**Beautiful Clock**](https://github.com/YOURUSERNAME/beautiful-clock) | A digital clock showing time, date, and day with an animated, aesthetic background. | ✅ *Completed* |
-| ☕ [**Coffee Business Website**](https://github.com/YOURUSERNAME/coffee-business-website) | A website showcasing coffee products and staff profiles for a fictional coffee business. | ✅ *Completed* |
+| 🧮 [**Calculator**](https://github.com/elGuapoTheMainCharacter/calculator) | A simple, elegant calculator built with HTML, CSS, and JavaScript for basic arithmetic operations. | ✅ *Completed* |
+| ⏰ [**Beautiful Clock**](https://github.com/elGuapoTheMainCharacter/beautiful-clock) | A digital clock showing time, date, and day with an animated, aesthetic background. | ✅ *Completed* |
+| ☕ [**Coffee Business Website**](https://github.com/elGuapoTheMainCharacter/coffee-business-website) | A website showcasing coffee products and staff profiles for a fictional coffee business. | ✅ *Completed* |
 | 🔐 [**Login Page**](https://github.com/elGuapoTheMainCharacter/login-page) | A front-end login page design with clean styling and responsive layout. | ✅ *Completed* |
-| 🌐 [**Portfolio Website**](https://github.com/YOURUSERNAME/portfolio-website) | A responsive personal portfolio site highlighting my skills and projects. | ✅ *Completed* |
+| 🌐 [**Portfolio Website**](https://github.com/elGuapoTheMainCharacter/portfolio-website) | A responsive personal portfolio site highlighting my skills and projects. | ✅ *Completed* |
 
 > 💡 More projects coming soon as I continue to learn and build!
 
@@ -91,7 +91,7 @@ Here are some of my personal and learning projects. Click the titles to explore 
 Let’s connect and collaborate! I’m open to internship, freelance, or entry-level opportunities.
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/elGuapoTheMainCharacter)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOURUSERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ziponkefe)
 [![Email](https://img.shields.io/badge/Email-isaacnkefe@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isaacnkefe@gmail.com)
 
 ---
