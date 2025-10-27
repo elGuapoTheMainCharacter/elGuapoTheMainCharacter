@@ -35,7 +35,7 @@ Here are some of my personal and learning projects. Click the titles to explore 
 | 🌤️ [**Weather App**](https://github.com/elGuapoTheMainCharacter/weather-app) | Displays live weather updates using an API with a clean and responsive interface. | ✅ *Completed* |
 | 🧮 [**Calculator**](https://github.com/elGuapoTheMainCharacter/calculator) | A simple, elegant calculator built with HTML, CSS, and JavaScript for basic arithmetic operations. | ✅ *Completed* |
 | ⏰ [**Beautiful Clock**](https://github.com/elGuapoTheMainCharacter/beautiful-clock) | A digital clock showing time, date, and day with an animated, aesthetic background. | ✅ *Completed* |
-| ☕ [**Coffee Business Website**](https://github.com/elGuapoTheMainCharacter/coffee-business-website) | A website showcasing coffee products and staff profiles for a fictional coffee business. | ✅ *Completed* |
+| ☕ [**Coffee Business Website**](https://github.com/elGuapoTheMainCharacter/cofee-business-website) | A website showcasing coffee products and staff profiles for a fictional coffee business. | ✅ *Completed* |
 | 🔐 [**Login Page**](https://github.com/elGuapoTheMainCharacter/login-page) | A front-end login page design with clean styling and responsive layout. | ✅ *Completed* |
 | 🌐 [**Portfolio Website**](https://github.com/elGuapoTheMainCharacter/portfolio-website) | A responsive personal portfolio site highlighting my skills and projects. | ✅ *Completed* |
 
