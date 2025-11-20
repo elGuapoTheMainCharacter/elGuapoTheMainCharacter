@@ -41,7 +41,7 @@ More Java and C# projects will be added soon.
 | Project | Description | Status |
 |--------|-------------|--------|
 | 🏠 [**Home Services Website**](https://github.com/elGuapoTheMainCharacter/home-services) | A TaskRabbit-style platform where users can create accounts and find home services. | 🛠️ *In Progress* |
-| 💰 [**Finance Tracker**](https://github.com/elGuapoTheMainCharacter/finance-tracker) | A personal finance tracker that records expenses, income & visualizes spending. | ✅ *Completed* |
+| 💰 [**Finance Tracker**](https://github.com/elGuapoTheMainCharacter/finance-tracker) | A personal finance tracker that records expenses, income & visualizes spending. |  🛠️ *In Progress*  |
 | 🌤️ [**Weather App**](https://github.com/elGuapoTheMainCharacter/weather-app) | Displays live weather data from an API. | ✅ *Completed* |
 | 🧮 [**Calculator**](https://github.com/elGuapoTheMainCharacter/calculator) | A clean and responsive calculator for basic arithmetic. | ✅ *Completed* |
 | ⏰ [**Beautiful Clock**](https://github.com/elGuapoTheMainCharacter/beautiful-clock) | A stylish animated digital clock with date & time. | ✅ *Completed* |
