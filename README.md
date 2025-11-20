@@ -50,7 +50,7 @@ More Java and C# projects will be added soon.
 
 ---
 
-## ☕ Java Proje## ☕ Java Projects
+## ☕ Java Projects
 
 | Project | Description | Status |
 |--------|-------------|--------|
