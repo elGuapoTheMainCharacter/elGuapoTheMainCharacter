@@ -50,8 +50,14 @@ More Java and C# projects will be added soon.
 
 ---
 
-## ☕ Java Projects
-_Coming soon…_
+## ☕ Java Proje## ☕ Java Projects
+
+| Project | Description | Status |
+|--------|-------------|--------|
+| ❌⭕ [**Tic Tac Toe**](https://github.com/elGuapoTheMainCharacter/Tic-tac-toe) | A console-based Tic Tac Toe game where the player competes against logic-driven moves. | ✅ *Completed* |
+| ✊📄✂️ [**Rock Paper Scissors**](https://github.com/elGuapoTheMainCharacter/rock-paper-scissors) | Classic Rock-Paper-Scissors game built in Java using randomization and user input. | ✅ *Completed* |
+| 🧮 [**Factorial Calculator**](https://github.com/elGuapoTheMainCharacter/factorial) | A Java program that calculates the factorial of any number using loops. | ✅ *Completed* |
+
 
 ---
 
