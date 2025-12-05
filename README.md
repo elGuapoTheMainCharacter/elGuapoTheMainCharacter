@@ -62,7 +62,11 @@ More Java and C# projects will be added soon.
 ---
 
 ## 🟦 C# Projects
-_Coming soon…_
+Projects
+
+| Project | Description | Status |
+|--------|-------------|--------|
+| 🗓️ [**Day of the Year Calculator**](https://github.com/elGuapoTheMainCharacter/day-number) | A C# console application that calculates the number of days we we are in a year given a date| ✅ *Completed* |
 
 ---
 
