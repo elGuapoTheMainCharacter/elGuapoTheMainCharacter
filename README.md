@@ -40,6 +40,8 @@ More Java and C# projects will be added soon.
 
 | Project | Description | Status |
 |--------|-------------|--------|
+| 👨‍💻 [**Egg The Programming Language CLI**](https://github.com/elGuapoTheMainCharacter/Egg-The-Programming-Language-CLI) | A simple programming language implemented in JavaScript, supports basic arithmetic operations, conditional statements, loops, and functions. CLI version. | ✅ _Complete_ |
+| 👨‍💻 [**Egg The Programming Language UI**](https://github.com/elGuapoTheMainCharacter/Egg-The-Programming-Language-UI) | A simple programming language implemented in JavaScript, supports basic arithmetic operations, conditional statements, loops, and functions. GUI version. | ✅ _Complete_ |
 | 🎮 [**Tic Tac Toe**](https://github.com/elGuapoTheMainCharacter/Tik-Tak-Toe-JS) | A simple Tic Tac Toe game with GUI that offer many modes of playing (weak bot, medium bot, advanced bot,and two player).Fun and relaxing.Uses DOM manipulation,all the game write in a single HTML file.| 🛠️ *In-progress* |
 | 🏠 [**Home Services Website**](https://github.com/elGuapoTheMainCharacter/home-services) | A TaskRabbit-style platform where users can create accounts and find home services. | 🛠️ *In Progress* |
 | 💰 [**Finance Tracker**](https://github.com/elGuapoTheMainCharacter/finance-tracker) | A personal finance tracker that records expenses, income & visualizes spending. |  🛠️ *In Progress*  |
