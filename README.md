@@ -39,7 +39,7 @@ More Java and C# projects will be added soon.
 
 | Project | Description | Status |
 |--------|-------------|--------|
-| ✅ [**React Todo List (Table View)**](https://github.com/elGuapoTheMainCharacter/react-todo-list) | A React-based Todo List application displaying tasks in a table format. Features include adding, editing, completing, and deleting tasks using React Hooks and state management. Focused on clean UI and reusable components. | ✅ *Completed* |
+| ✅ [**React Todo List (Table View)**](https://github.com/elGuapoTheMainCharacter/To-Do-List-react) | A React-based Todo List application displaying tasks in a table format. Features include adding, editing, completing, and deleting tasks using React Hooks and state management. Focused on clean UI and reusable components. | ✅ *Completed* |
 
 
 ## 🌐 JavaScript / HTML / CSS Projects
