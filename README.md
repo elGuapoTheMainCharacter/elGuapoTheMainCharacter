@@ -35,6 +35,12 @@ Below are some of my projects, grouped by technology stack.
 More Java and C# projects will be added soon.
 
 ---
+## ⚛️ React Projects
+
+| Project | Description | Status |
+|--------|-------------|--------|
+| ✅ [**React Todo List (Table View)**](https://github.com/elGuapoTheMainCharacter/react-todo-list) | A React-based Todo List application displaying tasks in a table format. Features include adding, editing, completing, and deleting tasks using React Hooks and state management. Focused on clean UI and reusable components. | ✅ *Completed* |
+
 
 ## 🌐 JavaScript / HTML / CSS Projects
 
@@ -78,6 +84,7 @@ More Java and C# projects will be added soon.
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -98,9 +105,10 @@ More Java and C# projects will be added soon.
 ## 🌱 What I'm Learning
 
 - Building **RESTful APIs** with PHP  
-- Strengthening frontend skills with **React**  
+- Building frontend applications with **React (Hooks, state, reusable components)**  
 - Advanced **SQL**  
-- Version control & collaboration with **Git**  
+- Version control & collaboration with **Git**
+    
 
 ---
 
