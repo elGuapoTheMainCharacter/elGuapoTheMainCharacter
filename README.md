@@ -109,6 +109,7 @@ More Java and C# projects will be added soon.
 - Building frontend applications with **React (Hooks, state, reusable components)**  
 - Advanced **SQL**  
 - Version control & collaboration with **Git**
+- Building websites using **WordPress** with **Elementor**
     
 
 ---
