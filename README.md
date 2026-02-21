@@ -48,7 +48,7 @@ More Java and C# projects will be added soon.
 | Project | Description | Status |
 |--------|-------------|--------|
 | 🏠 [**Home Services Website**](https://elguapothemaincharacter.github.io/home-services/) | A TaskRabbit-style platform where users can create accounts and find home services. | 🛠️ *In Progress* |
-| 💰 [**Finance Tracker**](https://github.com/elGuapoTheMainCharacter/finance-tracker) | A personal finance tracker that records expenses, income & visualizes spending. |  🛠️ *In Progress*  |
+| 💰 [**Finance Tracker**](https://elguapothemaincharacter.github.io/finance-tracker/) | A personal finance tracker that records expenses, income & visualizes spending. |  🛠️ *In Progress*  |
 | 🎮 [**Tic Tac Toe**](https://elguapothemaincharacter.github.io/Tik-Tak-Toe-Js/) | A simple Tic Tac Toe game with GUI that offer many modes of playing (weak bot, medium bot, advanced bot,and two player).Fun and relaxing.Uses DOM manipulation,all the game write in a single HTML file.| 🛠️ *In-progress* |
 | 🧮 [**Calculator**](https://github.com/elGuapoTheMainCharacter/calculator) | A clean and responsive calculator for basic arithmetic. | ✅ *Completed* |
 | ☕ [**Coffee Business Website**](https://github.com/elGuapoTheMainCharacter/cofee-business-website) | A coffee shop website with product listings and staff profiles. | ✅ *Completed* |
