@@ -39,7 +39,7 @@ More Java and C# projects will be added soon.
 
 | Project | Description | Status |
 |--------|-------------|--------|
-| 🎬 [**Movie Den**](https://elguapothemaincharacter.github.io/MovieDen/) | A React-based Movies website that uses the MovieDB API to GET movies and display them. | 🛠️ *In-Progress* |
+| 🎬 [**Movie Den**](https://elguapothemaincharacter.github.io/MovieDen/) | A React-based Movies website that uses the MovieDB API to GET movies and display them. | ✅ *Completed* |
 | ✅ [**React Todo List (Table View)**](https://elguapothemaincharacter.github.io/To-Do-List-react/) | A React-based Todo List application displaying tasks in a table format. Features include adding, editing, completing, and deleting tasks using React Hooks and state management. Focused on clean UI and reusable components. | ✅ *Completed* |
 
 
