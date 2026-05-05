@@ -44,7 +44,7 @@ Below are some of my projects, grouped by technology stack.
 
 | Project | Description | Tech | Links | Status |
 |--------|-------------|------|-------|--------|
-| 🎮 **GameStore (Full-Stack)** | A production-style full-stack Game Store platform with a React frontend and ASP.NET Core Web API backend. Features RESTful API design, PostgreSQL (Neon) integration, and cloud deployment (Render + Vercel). Demonstrates end-to-end data flow and real-world architecture. | React, .NET 10, EF Core, PostgreSQL | [🌐 Live](https://game-store-full-stack-bwbe.vercel.app/) \| [📂 Code](https://github.com/elGuapoTheMainCharacter/GameStore-FullStack) | ✅ Completed |
+| 🎮 [**GameStore (Full-Stack)**](https://game-store-full-stack-bwbe.vercel.app)| A production-style full-stack Game Store platform with a React frontend and ASP.NET Core Web API backend. Features RESTful API design, PostgreSQL (Neon) integration, and cloud deployment (Render + Vercel). Demonstrates end-to-end data flow and real-world architecture. | React, .NET 10, EF Core, PostgreSQL | [🌐 Live](https://game-store-full-stack-bwbe.vercel.app/) \| [📂 Code](https://github.com/elGuapoTheMainCharacter/GameStore-FullStack) | ✅ Completed |
 
 ---
 
